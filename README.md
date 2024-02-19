@@ -33,6 +33,6 @@
 <!-- ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) -->
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-notfragile&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLim&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
